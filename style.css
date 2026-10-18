@@ -1,0 +1,56 @@
+body {
+    background-color:lightblue;
+}
+
+h1 {
+    color: white;
+}
+
+section {
+    border: 3px solid black;
+    padding: 20px;
+    margin: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+nav a:hover {
+    color: rgb(140, 140, 212);
+}
+
+header {
+    background-color: #0b408f;
+    padding: 20px;
+}
+
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th,td{
+    border: 1px solid black;
+    padding: 10px;
+}
+
+th{
+    background-color: #0b408f;
+    color: white;
+}
+
+form label {
+    display: block;
+    margin-bottom: 10px;
+}
